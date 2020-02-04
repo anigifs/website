@@ -1,0 +1,12 @@
+{
+    "subheading": "a taiga Project",
+    "description": "The AniGifs Project provides API Endpoints which return gifs for specific interactions to be used in a Discord Bot elsewhere. The list of gifs is maintained by the community.",
+    "api": "API Endpoints",
+    "repo": "Image Repository",
+    "example.hug": "Hug (Interactions)",
+    "error.404.heading": "404 - This page was not found",
+    "error.404.subheading": "Check the URL, maybe there is a typo? If you were linked to this page, report this issue by contacting us",
+    "examples": "Examples",
+    "pageTitle": "AniGifs by taiga",
+    "home": "Home Page"
+}
