@@ -1,0 +1,1 @@
+screen -S anigifs-website yarn run nuxt start --hostname 91.200.102.150 --port 9093
