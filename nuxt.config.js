@@ -39,13 +39,14 @@ export default {
   ],
 
   i18n: {
-    locales: ['en', 'de'],
+    locales: ['en', 'de', 'fr'],
     defaultLocale: 'en',
     vueI18n: {
       fallbackLocale: 'en',
       messages: {
         en: require("./language/en.json"),
-        de: require("./language/de.json")
+        de: require("./language/de.json"),
+        fr: require("./language/fr.json")
       }
     },
     detectBrowserLanguage: {
