@@ -6,27 +6,27 @@ COLOR_NC="\033[0m"
 clear
 echo -e "${COLOR_LC}This Script is only intended to be used on taiga's Servers and may cause errors on other machines!${COLOR_NC}\n"
 echo -e "${COLOR_LC}Proceeding in 5 seconds...${COLOR_NC}\n"
-wait 1s
+sleep 1s
 
 clear
 echo -e "${COLOR_LC}This Script is only intended to be used on taiga's Servers and may cause errors on other machines!${COLOR_NC}\n"
 echo -e "${COLOR_LC}Proceeding in 4 seconds...${COLOR_NC}\n"
-wait 1s
+sleep 1s
 
 clear
 echo -e "${COLOR_LC}This Script is only intended to be used on taiga's Servers and may cause errors on other machines!${COLOR_NC}\n"
 echo -e "${COLOR_LC}Proceeding in 3 seconds...${COLOR_NC}\n"
-wait 1s
+sleep 1s
 
 clear
 echo -e "${COLOR_LC}This Script is only intended to be used on taiga's Servers and may cause errors on other machines!${COLOR_NC}\n"
 echo -e "${COLOR_LC}Proceeding in 2 seconds...${COLOR_NC}\n"
-wait 1s
+sleep 1s
 
 clear
 echo -e "${COLOR_LC}This Script is only intended to be used on taiga's Servers and may cause errors on other machines!${COLOR_NC}\n"
 echo -e "${COLOR_LC}Proceeding in 1 second...${COLOR_NC}\n"
-wait 1s
+sleep 1s
 
 clear
 echo -e "${COLOR_LC}Starting Deployment...${COLOR_NC}\n"
