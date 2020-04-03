@@ -1,3 +1,4 @@
+# ℹ️ Moved to https://git.taigabot.net/taiga/anigifs/website ℹ️
 # website
 
 > AniGifs Website
